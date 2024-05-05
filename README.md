@@ -15,7 +15,6 @@ I need to change this fast
 
 
 ## Special Thanks
-- [bathtubfulloftoast](https://modrinth.com/user/bathtubfulloftoast) for making the [wiki](https://l4j.novassite.net/) for Legacy4J and Re-Console
 - [N00B](https://modrinth.com/user/n00b) for making Console-Idated, of which this project was inspired from
 - [TheMinecraftArchitect](https://www.theminecraftarchitect.com/) for porting the Tutorial Worlds to Java Edition
 - [Quartzmaven](https://modrinth.com/user/quartzmaven) for making QC:R, of which this project was inspired from
