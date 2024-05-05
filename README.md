@@ -10,9 +10,12 @@
 ## Info
 William's Console is a fork of Re-Console and SImply Optimized that adds Qol features to the vanilla game while still keeping the old Legacy Console Edition style. 
 
+![2024-05-04_19 30 09](https://github.com/contrarybaton60/Williams-Console/assets/110365948/9f23a676-1b0c-4bfe-94f1-059c70bbbd09)
+
 ## Features
 Mods such as Legacy4J, Golden Age Combat, and Legacy Mipmaps, brings the GUI, combat mechanics, and the way that mipmaps work from old Console versions of Minecraft, with other mods like Adorn, Comforts, Traverse, and a handful of crafting changes, refreshes the vanilla game in small, but nice ways.
 
+![2024-05-04_20 08 49](https://github.com/contrarybaton60/Williams-Console/assets/110365948/ab91a28b-a400-4ec1-9c0d-faf79b6ab122)
 
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off of Re-Console
