@@ -16,9 +16,9 @@ I need to change this fast
 
 ## Special Thanks
 - [N00B](https://modrinth.com/user/n00b) for making Console-Idated, of which this project was inspired from
-- [TheMinecraftArchitect](https://www.theminecraftarchitect.com/) for porting the Tutorial Worlds to Java Edition
 - [Quartzmaven](https://modrinth.com/user/quartzmaven) for making QC:R, of which this project was inspired from
-- [Wilyicaro](https://modrinth.com/user/wilyicaro) for making the Legacy4J mod, for general assistance in the project and giving me permission to create this project
+- [Wilyicaro](https://modrinth.com/user/wilyicaro) for making the Legacy4J mod.
+- And all other mod devs who made this project posible
 
 
 ## Not your cup of tea?
