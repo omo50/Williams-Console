@@ -18,6 +18,7 @@ I need to change this fast
 - [N00B](https://modrinth.com/user/n00b) for making Console-Idated, of which this project was inspired from
 - [Quartzmaven](https://modrinth.com/user/quartzmaven) for making QC:R, of which this project was inspired from
 - [Wilyicaro](https://modrinth.com/user/wilyicaro) for making the Legacy4J mod.
+- [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off of Re-Console
 - And all other mod devs who made this project posible
 
 
