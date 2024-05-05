@@ -5,7 +5,7 @@
 
 
 
-![Kyubion-Legacy Union partnership](https://cdn.modrinth.com/data/cached_images/861b84a0c4112e3f4fc745e78cc28bfcbc4beffb.png)
+
 
 ## Info
 I need to change this fast
