@@ -21,6 +21,7 @@ Mods such as Legacy4J, Golden Age Combat, and Legacy Mipmaps, brings the GUI, co
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off of Re-Console
 - [Quartzmaven](https://modrinth.com/user/quartzmaven) for making QC:R, of which Re-Console was inspired from, which led to this project.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro) for making the Legacy4J mod.
+- [Permdog](https://modrinth.com/user/Permdog99) who made the Legacy Mipmaps mod.
 - And all other mod devs who made this project posible.
 - This mod uses some of the Simply Optimized configuration files.
 
