@@ -31,6 +31,7 @@ Thats fine! Consider checking out;
 - [Console-idated](https://modrinth.com/modpack/console-idated) by N00B (Has LEM compatibility)
 - [Legacy Remade](https://modrinth.com/modpack/legacy-remade) by Permdog99
 - [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition) by omoso
+- [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by omoso
 
 ## Credits
 William (better known as ContraryBaton60) - Lead Developer
