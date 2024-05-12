@@ -32,6 +32,7 @@ Thats fine! Consider checking out;
 - [Legacy Remade](https://modrinth.com/modpack/legacy-remade) by Permdog99
 - [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition) by omoso
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by omoso
+- If you want to play the older tutorial worlds, consider checking out downloading them from [TheMinecraftArchitect's website](https://www.theminecraftarchitect.com/tutorial-worlds)
 
 ## Credits
 William (better known as ContraryBaton60) - Lead Developer
