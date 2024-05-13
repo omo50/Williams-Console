@@ -1,0 +1,9 @@
+After some trial and error, I have realized Re-Console needs the SDL2 framework to run, which is not installed on macOS by default. Here is a quick tutorial to do so:
+
+1. Install the latest release here (for mac, it will be the .dmg installer): https://github.com/libsdl-org/SDL/releases/tag/release-2.30.3
+2. Run the installer
+3. Open a new finder window, and in the upper left-hand portion of the screen, click go, go to folder, and enter this path: /Library/Frameworks
+4. Drag the SDL2.framework folder from the installer to the framework directory
+5. Launch ReConsole using the launcher of your choice. Click OK on the promts until your instance crashes
+6. Open System Settings, go to Privacy & Security, and scroll down to where you see "SDL2.framework" was blocked from use because it is not from an identified developer.. Click Allow Anyway.
+You can now launch ReConsole!
