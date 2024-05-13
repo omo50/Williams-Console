@@ -17,6 +17,8 @@ Mods such as Legacy4J, Golden Age Combat, and Legacy Mipmaps, brings the GUI, co
 
 ![2024-05-04_20 08 49](https://github.com/contrarybaton60/Williams-Console/assets/110365948/ab91a28b-a400-4ec1-9c0d-faf79b6ab122)
 
+[If you're using MacOS, consider reading this](https://github.com/contrarybaton60/Williams-Console/blob/main/For%20MacOS%20users)
+
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off of Re-Console
 - [Quartzmaven](https://modrinth.com/user/quartzmaven) for making QC:R, of which Re-Console was inspired from, which led to this project.
