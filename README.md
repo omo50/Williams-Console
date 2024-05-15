@@ -26,7 +26,7 @@ I usally update whenever I have spare time, which I have a lot of. I always seek
 - [Wilyicaro](https://modrinth.com/user/wilyicaro) for making the Legacy4J mod.
 - [Permdog](https://modrinth.com/user/Permdog99) who made the Legacy Mipmaps mod.
 - And all other mod devs who made this project posible.
-- This mod uses some of the Simply Optimized configuration files.
+- This modpack uses some of the Simply Optimized configuration files.
 
 
 ## Not your cup of tea?
