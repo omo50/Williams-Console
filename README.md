@@ -17,7 +17,8 @@ Mods such as Legacy4J, Golden Age Combat, and Legacy Mipmaps, and more brings ba
 
 ![2024-05-04_20 08 49](https://github.com/contrarybaton60/Williams-Console/assets/110365948/ab91a28b-a400-4ec1-9c0d-faf79b6ab122)
 
-
+## What/How will updates work?
+I usally update whenever I have spare time, which I have a lot of. I always seek for improvments for performance and stabilty wise, so expect it to be a bit slow.
 
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off of Re-Console
