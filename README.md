@@ -6,7 +6,7 @@
 
 
 
-[If you're using MacOS, consider reading this](https://github.com/contrarybaton60/Williams-Console/blob/main/For%20MacOS%20users)
+[If you're using MacOS, consider reading this]([https://github.com/contrarybaton60/Williams-Console/blob/main/For%20MacOS%20users](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS))
 ## Info
 William's Console is a fork of Re-Console and Simply Optimized that adds improvements and new features to the vanilla game while still keeping the old Console Edition style. 
 
