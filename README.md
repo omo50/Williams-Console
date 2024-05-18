@@ -13,7 +13,7 @@ William's Console is a fork of Re-Console and Simply Optimized that adds improve
 ![2024-05-04_19 30 09](https://github.com/contrarybaton60/Williams-Console/assets/110365948/9f23a676-1b0c-4bfe-94f1-059c70bbbd09)
 
 ## Features
-Mods such as Legacy4J, Golden Age Combat, and Legacy Mipmaps, and more brings back features from the old Console Editions we all know and love. Now including other mods like Adorn, Comforts, and Traverse! with a handful of crafting changes that also refreshes the game in small, but nice ways.
+Mods such as Legacy4J, Golden Age Combat, Legacy Mipmaps, and more brings back features from the old Console Editions we all know and love. Now including other mods like Adorn, Comforts, Traverse, and more! with a handful of crafting changes that also refreshes the game in small, but nice ways.
 
 ![2024-05-04_20 08 49](https://github.com/contrarybaton60/Williams-Console/assets/110365948/ab91a28b-a400-4ec1-9c0d-faf79b6ab122)
 
