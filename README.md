@@ -39,7 +39,7 @@ Thats fine! Consider checking out;
 
 ## Credits
 William (better known as ContraryBaton60) - Lead Developer
-
+This project uses the the Apache License v2.0.
 
 
 
