@@ -18,10 +18,7 @@ I usally update whenever I have spare time, which I have a lot of. I always seek
 
 ## Credits
 William (better known as ContraryBaton60) - Lead Developer.
+
 omoso - For editing the config files and helping me out with some stuff.
 
 This project uses the the Apache License v2.0.
-
-
-
-
