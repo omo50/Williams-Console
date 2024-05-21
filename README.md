@@ -11,7 +11,7 @@
 This is the *unstable* branch for William's Console, this is made to ensure the best possible performance with Re-Console's Adrenaline configuration files.
 
 ## When do updates happen?
-I usally update whenever I have spare time, which I have a lot of. I always seek for improvments for performance and stabilty wise, so expect it to be a bit slow.
+I usally update whenever I have spare time, which I have a lot of. I always seek for improvements for performance and stabilty wise, so expect it to be a bit slow.
 
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off of Re-Console
