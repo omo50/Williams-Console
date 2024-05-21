@@ -8,7 +8,7 @@
 
 [If you're using MacOS, consider reading this](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
 ## Info
-This is the *unstable* branch for William's Console, this is made to ensure the best possible performance with Re-Console's Adrenaline configuraion files.
+This is the *unstable* branch for William's Console, this is made to ensure the best possible performance with Re-Console's Adrenaline configuration files.
 
 ## When do updates happen?
 I usally update whenever I have spare time, which I have a lot of. I always seek for improvments for performance and stabilty wise, so expect it to be a bit slow.
