@@ -8,7 +8,7 @@
 
 [If you're using MacOS, consider reading this](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
 ## Info
-William's Console is a fork of Re-Console and Simply Optimized that adds improvements and new features to the vanilla game while still keeping the old Console Edition style. 
+William's Console is a fork of Re-Console that adds improvements and new features to the vanilla game while still keeping the old Console Edition style. 
 
 ![2024-05-04_19 30 09](https://github.com/contrarybaton60/Williams-Console/assets/110365948/9f23a676-1b0c-4bfe-94f1-059c70bbbd09)
 
