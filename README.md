@@ -26,7 +26,7 @@ I usally update whenever I have spare time, which I have a lot of. I always seek
 - And all other mod developers who made this project posible.
 
 ## Help and Support
-- If you have a issue/bug for this modpack and you want to report it, report it on this Github repository.
+- If you have a issue/bug for this modpack and you want to report it, report it to this Github repository.
 - If you have a bug for an individual mod, not caused by the modpack, then report it to the author if possible.
 - [If you have a problem trying to run this modpack on MacOS, consider reading this](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
 
