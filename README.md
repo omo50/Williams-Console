@@ -11,12 +11,10 @@
 William's Console is a hard fork of Re-Console that adds improvements and new features to the game while still keeping the old Console Edition style.
  
 
-![2024-05-04_19 30 09](https://github.com/contrarybaton60/Williams-Console/assets/110365948/9f23a676-1b0c-4bfe-94f1-059c70bbbd09)
+![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
 
 ## Features
 Mods such as Legacy4J, which has near 100% parity with the old Console Editions we all know and love. Now including other mods like Adorn, Comforts, Traverse, and more! refreshing the game in nice ways.
-
-![2024-05-04_20 08 49](https://github.com/contrarybaton60/Williams-Console/assets/110365948/ab91a28b-a400-4ec1-9c0d-faf79b6ab122)
 
 ## When do updates happen?
 I usally update whenever I have spare time, which I have a lot of. I always seek for improvments for performance and stabilty wise, so expect it to be a bit slow.
@@ -34,6 +32,8 @@ Thats fine! Consider checking out;
 - [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition) by omoso
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by The Legacy Union
 - [Better Adventures++ LCE](https://modrinth.com/modpack/better-adventures++-lce) by FluffyPuppyKasey
+
+[If you're using MacOS, consider reading this](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
 
 ## Credits
 William (better known as ContraryBaton60) - Lead Developer
