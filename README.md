@@ -38,7 +38,7 @@ Thats fine! Consider checking out;
 - [Better Adventures++ LCE](https://modrinth.com/modpack/better-adventures++-lce) by FluffyPuppyKasey
 
 ## Credits
-William (better known as ContraryBaton60) - Lead Developer
-omoso for helping me out with some stuff
+- William (better known as ContraryBaton60) - Lead Developer
+- omoso for helping me out with some stuff
 
 This project uses the the Apache License v2.0.
