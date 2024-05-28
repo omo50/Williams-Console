@@ -21,7 +21,7 @@ I usally update whenever I have spare time, which I have a lot of. I always seek
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
-- [Permdog](https://modrinth.com/user/Permdog99), for making the Legacy Mipmaps mod.
+- [Permdog99](https://modrinth.com/user/Permdog99), for making the Legacy Mipmaps mod.
 - And all other mod developers who made this project posible.
 
 ## Help and Support
@@ -33,11 +33,11 @@ I usally update whenever I have spare time, which I have a lot of. I always seek
 Thats fine! Consider checking out;
 - [Console-idated](https://modrinth.com/modpack/console-idated) by N00B (Has LEM compatibility)
 - [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition) by omoso
-- [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by The Legacy Union
+- [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by omoso & more
 - [Better Adventures++ LCE](https://modrinth.com/modpack/better-adventures++-lce) by FluffyPuppyKasey
 
 ## Credits
-- William (better known as ContraryBaton60) - Lead Developer
-- omoso for helping me out with some stuff
+- William (better known as ContraryBaton60), Lead Developer
+- omoso, Contributor
 
 This project uses the the Apache License v2.0.
