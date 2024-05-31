@@ -15,9 +15,6 @@ William's Console is a hard fork of Re-Console that adds improvements and new fe
 ## Features
 Mods such as Legacy4J, which has near 100% parity with the old Console Editions we all know and love. Now including other mods like Adorn, Comforts, Traverse, and more! refreshing the game in nice ways.
 
-## When do updates happen?
-I usally update whenever I have spare time, which I have a lot of. I always seek for improvments for performance and stabilty wise, so expect it to be a bit slow.
-
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
