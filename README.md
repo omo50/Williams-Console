@@ -35,6 +35,6 @@ Thats fine! Consider checking out;
 
 ## Credits
 - William (better known as ContraryBaton60), Lead Developer
-- omoso, Former Contributor
+- omoso, Contributor
 
 This project uses the the Apache License v2.0.
