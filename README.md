@@ -18,7 +18,6 @@ Mods such as Legacy4J, which has near 100% parity with the old Console Editions 
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
-- [Permdog99](https://modrinth.com/user/Permdog99), for making the Legacy Mipmaps mod.
 - And all other mod developers who made this project posible.
 
 ## Help and Support
