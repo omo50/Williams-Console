@@ -13,7 +13,7 @@ William's Console is a hard fork of Re-Console that adds improvements and new fe
 ![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
 
 ## Features
-Mods such as Legacy4J, which has near 100% parity with the old Console Editions we all know and love. Now including other mods like Adorn, Comforts, Traverse, and more! refreshing the game in nice ways.
+Mods such as Legacy4J, which has near 100% parity with the old Console Editions we all know and love. Now including other mods like Cinderscapes, Comforts, Traverse, and more! refreshing the game in nice ways.
 
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
