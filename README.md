@@ -37,3 +37,5 @@ Thats fine! Consider checking out;
 - omoso, Contributor
 
 This project uses the the Apache License v2.0.
+
+Almost all of the mods in William's Console are either Open Source or Source available. if there's is an alternative to a ARR mod that we use, let us know.
