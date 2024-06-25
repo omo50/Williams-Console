@@ -38,4 +38,6 @@ Thats fine! Consider checking out;
 
 This project uses the the Apache License v2.0.
 
+William's Console is only hosted on Github and Modrinth. If ypu see it hosted on any other site, let me know.
+
 Almost all of the mods in William's Console are either Open Source or Source available. if there's is an alternative to a mod without source code available that we use, let us know.
