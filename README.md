@@ -34,7 +34,7 @@ Thats fine! Consider checking out;
 
 ## Credits
 - William (better known as ContraryBaton60), Lead Developer
-- omoso, Contributor
+- omoso, Contributor - [Support him on Kofi](https://ko-fi.com/omoso)
 
 This project uses the the Apache License v2.0.
 
