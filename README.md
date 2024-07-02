@@ -30,7 +30,7 @@ William's Console is a hard fork of Re-Console and introduces numerous subtle en
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
-- And all other mod developers who made this project posible.
+- And all other mod developers who made this project possible.
 
 ## Help and Support
 - If you encounter an issue or bug within this modpack and wish to report it, [make an issue](https://github.com/contrarybaton60/Williams-Console/issues) within this Github repository.
