@@ -1,25 +1,20 @@
 # William's Console
 
-William's Console is a hard fork of Re-Console and introduces numerous subtle enhancements ontop of it, improving the overall experience. These enhancements include ambient sounds, sleeping bags, eating animations and sound effects, additional particle effects, improved minecarts, shaders, and various other refinements. These mods serve to elevate the game to a more refined and immersive level, all the while upholding the classic Console Edition style that Re-Console achieves.
- 
-![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
-
 <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"> <img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"> <img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
 
+William's Console is a hard fork of Re-Console which adds new features and QoL changes to the game.
+
 ## Notable Features
+- New biomes to explore! (Traverse and Cinderscapes)
+- Furniture, sleeping bags and hammocks! (Nemo's Carpentry, Comforts)
+- Ambient visuals and sounds (Falling Leaves, AmbientSounds, etc)
+- _optional_ Beta 1.7.3 to 1.17 terrain generation (Moderner Beta)
+- Performance optimizations and other QoL changes
 
-* New biomes to explore! (Traverse and Cinderscapes)
-
-* Furniture, sleeping bags and hammocks! (Nemo's Carpentry, Comforts)
-
-* Ambient visuals and sounds (Falling Leaves, AmbientSounds, etc)
-
-* _optional_ Beta 1.7.3 to 1.17 terrain generation (Moderner Beta)
-
-* Performance optimizations and other QoL changes
+![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
 
 ## Special Thanks
-- [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
+- [omoso](https://modrinth.com/user/omoso) for giving me permision for fork Re-Console.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
 - And all other mod developers who made this project possible.
 
@@ -37,10 +32,10 @@ Thats fine! Consider checking out;
 
 ## Credits and Licensing
 - William (better known as ContraryBaton60), Lead Developer
-- omoso, Contributor - [Support him on Kofi](https://ko-fi.com/omoso)
+- omoso, Contributor - [Support him on Ko-fi](https://ko-fi.com/omoso)
 
 This project uses the the Apache License v2.0.
 
-William's Console is only hosted on Github and Modrinth. If you see it hosted on any other site, let me know.
+William's Console is only hosted on Github and Modrinth. If you see it hosted on any other site, let us know.
 
 Almost all of the mods in William's Console are either Open Source or Source available. if you find an alternative to a mod without source code available that we use, let us know.
