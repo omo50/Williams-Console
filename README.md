@@ -1,19 +1,22 @@
 # William's Console
 
-<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"> <img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"> <img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
-
-
-
-
-
-## Info
-William's Console is a hard fork of Re-Console that adds improvements and new features to the game while still keeping the old Console Edition style.
+William's Console is a hard fork of Re-Console and introduces numerous subtle enhancements ontop of it, improving the overall experience. These enhancements include ambient sounds, sleeping bags, eating animations and sound effects, additional particle effects, improved minecarts, shaders, and various other refinements. These mods serve to elevate the game to a more refined and immersive level, all the while upholding the classic Console Edition style that Re-Console achieves.
  
-
 ![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
 
-## Features
-Mods such as Legacy4J, which has near 100% parity with the old Console Editions we all know and love. Now including other mods like Cinderscapes, Comforts, Traverse, and more! refreshing the game in nice ways.
+<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"> <img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg"> <img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
+
+## Notable Features
+
+* New biomes to explore! (Traverse and Cinderscapes)
+
+* Furniture, sleeping bags and hammocks! (Nemo's Carpentry, Comforts)
+
+* Ambient visuals and sounds (Falling Leaves, AmbientSounds, etc)
+
+* _optional_ Beta 1.7.3 to 1.17 terrain generation (Moderner Beta)
+
+* Performance optimizations and other QoL changes
 
 ## Special Thanks
 - [omoso](https://modrinth.com/user/omoso) for giving me permision for fork off Re-Console.
@@ -21,9 +24,9 @@ Mods such as Legacy4J, which has near 100% parity with the old Console Editions 
 - And all other mod developers who made this project posible.
 
 ## Help and Support
-- If you have a issue/bug for this modpack and you want to report it, report it to this Github repository.
-- If you have a bug for an individual mod, not caused by the modpack, then report it to the author if possible.
-- [If you have a problem trying to run this modpack on MacOS, consider reading this.](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
+- If you encounter an issue or bug within this modpack and wish to report it, [make an issue](https://github.com/contrarybaton60/Williams-Console/issues) within this Github repository.
+- Should you encounter a bug specific to an individual mod, not caused by this modpack, please report it directly to the mod's author.
+- If you have a problem trying to run this modpack on MacOS, [consider reading this.](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
 
 ## Not your cup of tea?
 Thats fine! Consider checking out;
@@ -32,7 +35,7 @@ Thats fine! Consider checking out;
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by omoso & more
 - [Better Adventures++ LCE](https://modrinth.com/modpack/better-adventures++-lce) by FluffyPuppyKasey
 
-## Credits
+## Credits and Licensing
 - William (better known as ContraryBaton60), Lead Developer
 - omoso, Contributor - [Support him on Kofi](https://ko-fi.com/omoso)
 
