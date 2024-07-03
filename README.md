@@ -20,7 +20,7 @@ William's Console is a hard fork of Re-Console which adds new features and QoL c
 
 ## Help and Support
 - If you encounter an issue or bug within this modpack and wish to report it, [make an issue](https://github.com/contrarybaton60/Williams-Console/issues) within this Github repository.
-- Should you encounter a bug specific to an individual mod, not caused by this modpack, please report it directly to the mod's author.
+- If you encounter a bug specific to an individual mod, not caused by this modpack, please report it directly to the mod's author.
 - If you have a problem trying to run this modpack on MacOS, [consider reading this.](https://github.com/contrarybaton60/Williams-Console/wiki/Running-William's-Console-or-Re%E2%80%90Console-on-MacOS)
 
 ## Not your cup of tea?
