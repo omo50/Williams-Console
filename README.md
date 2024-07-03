@@ -32,7 +32,8 @@ Thats fine! Consider checking out;
 
 ## Credits and Licensing
 - William (better known as ContraryBaton60), Lead Developer
-- omoso, Contributor - [Support him on Ko-fi](https://ko-fi.com/omoso)
+- [omoso](https://modrinth.com/user/omoso), Contributor - [Support him on Ko-fi](https://ko-fi.com/omoso)
+- [tristann21](https://github.com/tristann21), Contributor
 
 This project uses the the Apache License v2.0.
 
