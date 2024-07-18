@@ -14,7 +14,7 @@ William's Console is a hard fork of Re-Console which adds new features and QoL c
 ![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
 
 ## Special Thanks
-- [omoso](https://modrinth.com/user/omoso) for giving me permision to fork Re-Console.
+- [omoso](https://modrinth.com/user/omoso) for giving me permission to fork Re-Console.
 - [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
 - And all other mod developers who made this project possible.
 
