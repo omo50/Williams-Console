@@ -35,7 +35,9 @@ Thats fine! Consider checking out;
 - [omoso](https://modrinth.com/user/omoso), Contributor - [Support him on Ko-fi](https://ko-fi.com/omoso)
 - [tristann21](https://github.com/tristann21), Contributor
 
-This project uses the the Apache License v2.0.
+This project uses the the Apache License v2.0. 
+
+[DefaultDarkMode for William's Console](https://github.com/contrarybaton60/Default-Dark-Mode-for-WC) uses the Attribution-NonCommercial-ShareAlike 4.0 International license.
 
 William's Console is only hosted on Github and Modrinth. If you see it hosted on any other site, let us know.
 
